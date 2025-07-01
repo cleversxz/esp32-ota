@@ -1,4 +1,6 @@
 {
-  "version": "v1.2.0",
-  "url": "https://cleversxz.github.io/esp32-ota/xiaozhi.bin",
+  "firmware": {
+    "version": "v1.2.0",
+    "url": "https://cleversxz.github.io/esp32-ota/xiaozhi.bin"
+  }
 }
